@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm elan. I recently joined @mekari-engineering and working as the Senior Software Engineer. Previously worked with the same job title for @bukalapak
+I'm elan. I recently joined [@mekari-engineering](https://github.com/mekari-engineering) and working as the Senior Software Engineer. Previously worked with the same job title for [@bukalapak](https://github.com/bukalapak)
 
 Nothing to add for now, but you should my check my other social media handles
 
 [🦜 - twitter](http://twitter.com/elanq)
+
 [👨‍💻 - linkedin](http://linkedin.com/in/qisthi)
